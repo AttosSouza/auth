@@ -9,7 +9,7 @@ The API was developed to demonstrate how to configure Authenticatio and Authoriz
 The API uses Spring Security for authentication control. The following roles are available:
 
 - BASIC -> Standard user role for logged-in users.
-- ADMIN -> Admin role for managing the system (registering new subjects and grades).
+- ADMIN -> Admin role for managing the system.
 
 # Database
 
